@@ -1,0 +1,8 @@
+prefix=/home/ikemura/RM_recruitment/online_software/CV/devel
+
+Name: example_pkg
+Description: Description of example_pkg
+Version: 0.0.0
+Cflags: -I/home/ikemura/RM_recruitment/online_software/CV/src/example_pkg/include
+Libs: -L${prefix}/lib -lexample_pkg
+Requires: roscpp std_msgs

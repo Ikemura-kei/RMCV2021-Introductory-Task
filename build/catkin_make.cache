@@ -1,0 +1,2 @@
+example_pkg
+-DCMAKE_EXPORT_COMPILE_COMMANDS=1 -DCATKIN_DEVEL_PREFIX=/home/ikemura/RM_recruitment/online_software/CV/devel -DCMAKE_INSTALL_PREFIX=/home/ikemura/RM_recruitment/online_software/CV/install -G Unix Makefiles
