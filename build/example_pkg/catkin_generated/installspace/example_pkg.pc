@@ -1,8 +1,0 @@
-prefix=/home/ikemura/RM_recruitment/online_software/CV/install
-
-Name: example_pkg
-Description: Description of example_pkg
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lexample_pkg
-Requires: roscpp std_msgs
