@@ -13,6 +13,7 @@ You will complete a light bar tracking task in order to get familiar with the fo
 * Refer to the [Requirement](#requirement) section for the requirement of this task.
 * Refer to the [Convention](#convention) section for the coding conventions.
 * For the explanation on the example code, refer to [Example Code](#example-code)
+* Video of the light bar can be found on [__OneDriver__](https://hkustconnect-my.sharepoint.com/:f:/g/personal/kikemura_connect_ust_hk/EvIow_ZuODtOuebddo8s0PABBDA1HFw6qJ9cmj9lDPp5eA?e=V8RdwS), the password is `123`
 
 > Note: You MUST use Ubuntu in order to use ROS melodic.
 
