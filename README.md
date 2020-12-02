@@ -31,7 +31,7 @@ You will complete a light bar tracking task in order to get familiar with the fo
 * Configure:  
 `cmake  ../opencv-master`
 * Build:  
-`cmake --build`
+`cmake --build .`
 
 ### 2. ROS Melodic
 
